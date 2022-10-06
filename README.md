@@ -14,3 +14,5 @@ Start the server and 5 client applications (can be Windows/Linux terminal).
 Use the method for counting active threads, which is on the server side.
 You can write tests, you can visually show the effect.
 I am interested in both the correct final result and the quality of the task in terms of code consistency.
+
+After completing the quest, there are 2 more quests left.
